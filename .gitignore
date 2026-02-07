@@ -1,0 +1,6 @@
+modeling/creditcard.csv
+*.pkl
+*.joblib
+__pycache__/
+*.pyc
+.env
